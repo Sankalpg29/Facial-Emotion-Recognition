@@ -8,6 +8,21 @@ This project demonstrates the capability of real-time facial emotion recognition
 - **Visual Feedback:** Displays the emotion classification results directly on the video feed with bounding box and label.
 
 ## Technologies Used
-**Python:** The core programming language used for this project.
-**OpenCV (cv2):** For capturing video streams and image processing.
-**TensorFlow/Keras:** For designing and training the convolutional neural network.
+- **Python:** The core programming language used for this project.
+- **OpenCV (cv2):** For capturing video streams and image processing.
+- **TensorFlow/Keras:** For designing and training the convolutional neural network.
+
+## Project Structure
+### Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+-Python 3.6+
+-OpenCV
+-TensorFlow
+-Keras
+-NumPy
+
+### Installation
+Install the necessary packages:
+''' pip install opencv-python tensorflow keras numpy '''
