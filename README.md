@@ -20,10 +20,14 @@ These instructions will get you a copy of the project up and running on your loc
 -Python 3.6+
 
 -OpenCV
+
 -TensorFlow
+
 -Keras
+
 -NumPy
 
 ### Installation
 Install the necessary packages:
+
 ''' pip install opencv-python tensorflow keras numpy '''
