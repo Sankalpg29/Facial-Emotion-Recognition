@@ -30,8 +30,23 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 Install the necessary packages:
 
-'''
+-opencv-python 
 
-pip install opencv-python tensorflow keras numpy 
+-tensorflow 
 
-'''
+-keras 
+
+-numpy 
+
+## Model Information
+The CNN model used for emotion classification is structured as follows (simplified):
+
+-Input Layer
+
+-Convolutional and MaxPooling Layers
+
+-Fully Connected Layers
+
+-Output Layer with softmax activation for multi-class classification
+
+-Training details, including dataset information and training epochs, are documented in the Jupyter notebook.
