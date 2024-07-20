@@ -30,4 +30,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 Install the necessary packages:
 
-''' pip install opencv-python tensorflow keras numpy '''
+'''
+
+pip install opencv-python tensorflow keras numpy 
+
+'''
